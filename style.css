@@ -1,0 +1,134 @@
+*{
+  padding:0;
+  margin:0;
+}
+.heading{
+  height:150px;
+  background-color: #8236CB;
+}
+.ankush{
+  width:100px;
+  height:100px;
+  border-radius:50%;
+  float:right;
+  margin-top:20px;
+  margin-right:20px;
+}
+.outer_div{
+  width:70%;
+  height:180vh;
+  margin-left:13%;
+  margin-bottom:20%;
+  position:absolute;
+  background-color: white;
+}
+.nameh,.parap{
+  color:white;
+  padding-left:80px;
+  padding-top:20px;
+  font-family: 'Oswald', sans-serif;
+}
+a{
+  text-decoration:none;
+}
+.contact{
+  background-color: #290FBA;
+  height:40px;
+  text-align:center;
+  padding-top:30px;
+}
+.a1{
+display:inline;
+color:white;
+font-weight:bold;
+padding:30px 10px 30px 15px;
+font-family: 'Barlow', sans-serif;
+}
+.mail{
+  width:20px;
+  height:20px;
+  display:inline;
+  padding-left:40px;
+}
+.first_col{
+  float:left;
+  position:absolute;
+  margin-left:35px;
+}
+.second_col{
+  float:right;
+  margin-right:35px;
+}
+.head{
+  padding-bottom: 5px;
+  padding-top:50px;
+  border-bottom-style: solid;
+  width: fit-content;
+  text-transform: uppercase;
+  color:#664E88;
+  font-family: 'Oswald', sans-serif;
+}
+.date{
+  width:20px;
+  height:20px;
+}
+.Programming_profiles{
+  margin-top:60px;
+}
+.a2{
+  padding-top:20px;
+}
+.r{
+  margin-top:10px;
+  position:absolute;
+  width:90px;
+  height:35px;
+  border-radius:10px;
+  background-color: #63B4B8;
+}
+.r1{
+margin-top:10px;
+width:60px;
+height:35px;
+border-radius:10px;
+background-color: #63B4B8;
+margin-left:100px;
+}
+.r2{
+margin-top:10px;
+width:260px;
+height:35px;
+border-radius:10px;
+position:absolute;
+background-color: #63B4B8;
+}
+.r3{
+width:70px;
+height:35px;
+border-radius:10px;
+background-color: #63B4B8;
+margin-left:270px;
+margin-top:10px;
+position:absolute;
+}
+.r4{
+width:50px;
+height:35px;
+border-radius:10px;
+background-color: #63B4B8;
+margin-left:350px;
+margin-top:10px;
+}
+.interest{
+  background-color:white;
+  height:70px;
+  border:solid;
+  border-width:2px;
+  border-color: cyan;
+  border-radius:10px;
+  margin-top:10px;
+  padding-top:10px;
+  padding-left:10px;
+  width:450px;
+  font-family: 'Fira Sans', sans-serif;
+}
